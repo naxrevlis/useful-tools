@@ -20,3 +20,9 @@ $ brew install fzf
 ```sh
 $ brew install pass
 ```
+
+## Enterprise solutions
+### Integration
+
+- [zato] (https://github.com/zatosource/zato) - The next generation ESB and application server written in Python and released under a commercial-friendly LGPL license
+
