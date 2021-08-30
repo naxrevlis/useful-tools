@@ -26,3 +26,5 @@ $ brew install pass
 
 - [zato](https://github.com/zatosource/zato) - The next generation ESB and application server written in Python and released under a commercial-friendly LGPL license
 
+### Build tools
+- [Earthly](https://earthly.dev) - Earthly is a syntax for defining your build. It works with your existing build system
