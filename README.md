@@ -21,6 +21,12 @@ $ brew install fzf
 $ brew install pass
 ```
 
+- [lazygit](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands, written in Go with the gocui library
+
+``` sh
+$ brew install lazygit
+```
+
 ## Enterprise solutions
 ### Integration
 
