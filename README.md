@@ -27,6 +27,50 @@ $ brew install pass
 $ brew install lazygit
 ```
 
+- [lazydocker](https://github.com/jesseduffield/lazydocker) - A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.
+
+``` sh
+$ brew install lazydocker
+```
+
+- [bat](https://github.com/sharkdp/bat) - bat supports syntax highlighting for a large number of programming and markup languages
+
+``` sh
+$ brew install bat
+```
+
+- [exa](https://github.com/ogham/exa) - exa is a modern replacement for ls
+
+``` sh
+$ brew install exa
+```
+
+- [dust](https://github.com/bootandy/dust) - Dust is meant to give you an instant overview of which directories are using disk space without requiring sort or head. Dust will print a maximum of one 'Did not have permissions message'.
+
+``` sh
+$ brew install dust 
+```
+
+- [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility (Linux, BSD, macOS & Windows)
+
+``` sh
+$ brew install duf 
+```
+
+- [broot](https://github.com/Canop/broot) - A better way to navigate directories
+
+``` sh
+$ brew install broot
+```
+
+- [jq](https://github.com/stedolan/jq) - jq is a lightweight and flexible command-line JSON processor.
+
+``` sh
+brew install jq
+```
+
+
+
 ## Enterprise solutions
 ### Integration
 
